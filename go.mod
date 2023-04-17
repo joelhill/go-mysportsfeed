@@ -1,4 +1,4 @@
-module go-mysportsfeed
+module github.com/joelhill/go-mysportsfeed
 
 go 1.20
 
